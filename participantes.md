@@ -15,3 +15,4 @@ Usuarios de GitHub de los participantes de Informática II.
 - BrognoMicaela
 - andreskocar
 - lgallero
+- jch-ching
