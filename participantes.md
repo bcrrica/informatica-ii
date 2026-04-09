@@ -15,4 +15,6 @@ Usuarios de GitHub de los participantes de Informática II.
 - BrognoMicaela
 - andreskocar
 - lgallero
--KarenFlorenciaAbigailGatica 
+- jch-ching
+- mjbustos182
+- KarenFlorenciaAbigailGatica 
